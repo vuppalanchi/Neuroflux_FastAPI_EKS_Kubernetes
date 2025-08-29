@@ -91,8 +91,6 @@ $ celery -A main.celery worker -l info --pool=prefork
 
 
 
-![celery-task](./misc/images/celery-task.png)
-
 ## Testing
 
 Before proceeding make sure you have created a test database in Postgres.
