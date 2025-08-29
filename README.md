@@ -1,2 +1,2 @@
-# Neuroflux_FastAPI_EKS_Kubernetes
-Neuroflux AI Model Scaling with Kubernetes
+# Neuroflux-FastAPI_EKS_Kubernetes
+Neuroflux AI Model scale with Kubernetes
