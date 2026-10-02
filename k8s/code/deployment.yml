@@ -36,7 +36,7 @@ spec:
             httpGet:
               port: 5000
               path: /docs
-            initialDelaySeconds: 15
+            initialDelaySeconds: 14
           livenessProbe:
             httpGet:
               port: 5000
